@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Andri Yabu Ndapa Rehing
 - 👀 I’m interested in Computer and Tech
-- 🌱 I’m currently learning Rust Programming Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently working as fullstack web developer
+- 📫 How to reach me : andriyabu@gmail.com
+- ⚡ Fun fact: i am not a superman
 
 <!---
 andriyabu85/andriyabu85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
