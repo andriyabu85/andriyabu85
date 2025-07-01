@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer and Tech
 - 🌱 I’m currently working as fullstack web developer
 - 📫 How to reach me : andriyabu@gmail.com
-- ⚡ Fun fact: i am not a superman
+- ⚡ Fun fact: i love coding
 
 <!---
 andriyabu85/andriyabu85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
